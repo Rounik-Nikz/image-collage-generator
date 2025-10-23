@@ -128,4 +128,8 @@ javac GlitchCollageGenerator.java
 java GlitchCollageGenerator
 ```
 
+## Special Thanks
+The wonderful images in `/small-images-data` are provided by [Saptaparno Chakraborty](https://github.com/schak04)
+
+##
 This project demonstrates fundamental image processing techniques in Java while creating visually interesting glitch art. The simple yet effective algorithm shows how randomness can be used creatively in digital art generation.
